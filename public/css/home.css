@@ -1,0 +1,176 @@
+body {
+    font-family: "font-family: 'Lato', sans-serif";
+}
+#first_nav {
+    padding: 0px;
+    margin: 0px;
+    padding-left: 20px;
+    /* font-family: "Open Sans", Arial, sans-serif; */
+    font-size: 12px;
+    color: #e6e6e6;
+    line-height: 1.7em;
+    font-weight: 500;
+}
+
+#color_nav {
+    background-color: maroon;
+    padding: 4px;
+}
+#top_email {
+    color: white;
+    margin: 20px;
+    padding: 5px;
+}
+#call {
+    width: 18px;
+    margin: 0px;
+    /* font-family: "Open Sans", Arial, sans-serif; */
+    padding: 0px;
+}
+#mail {
+    width: 18px;
+    margin-right: 10px;
+    /* font-family: "Open Sans", Arial, sans-serif; */
+}
+#icons {
+    padding: 0px 30px 3px 0px;
+    margin: 0%;
+}
+#second_nav {
+    background-color: white;
+    font-size: 17px;
+    padding-top: 0px;
+    box-shadow: #2a2a2a;
+}
+#logo2 {
+    width: 20%;
+    padding-top: 50px;
+    margin-left: 39%;
+
+}
+#logo {
+    width: 210px;
+    padding: 0px 0px 0px 35px;
+    margin: 0%;
+}
+#navbarNavDropdown {
+    /* display: flex; */
+    justify-content: right;
+    padding: 0px;
+}
+
+#prog_drop {
+    background-color: rgb(255, 255, 255);
+}
+
+#prog_drop:hover {
+    color: maroon;
+
+}
+.nav-item {
+    padding: 0px 20px 0px 0px;
+    margin: 0%;
+}
+#carouselExampleCaptions {
+    background-image: url("../img/BG.jpg");
+    background-size: cover;
+}
+#about_section {
+    background-color: maroon;
+}
+#about_section2 {
+    color: azure;
+    text-align: center;
+    padding: 70px 70px;
+}
+.carousel {
+    padding: 100px;
+}
+#programs {
+    background-color: rgb(236, 227, 227);
+}
+#news {
+    background-image: url(https://www.ama.edu.ph/wp-content/uploads/2019/11/CHED-Grants-Autonomous-Status-to-AMA-bg1.jpg);
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+#preregister {
+    padding: 0%;
+    margin: 0%;
+}
+
+.carou_text {
+    transform: translateY(-400%) translateX(20%);
+    font-size: 30px;
+}
+.carou_text2 {
+    transform: translateY(-500%) translateX(30%);
+    font-size: 25px;
+}
+.buttons {
+    padding: 8px 25px;
+    border-radius: 50px;
+    border: 1px solid #ffffff;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.073);
+    transform: translateY(-200%) translateX(50%);
+    font-size: 25px;
+    transition: 900ms;
+}
+.buttons:hover {
+    padding: 8px 25px;
+    border-radius: 50px;
+    border: 1px solid #ffffff00;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.1);
+    transform: translateY(-200%) translateX(50%);
+    font-size: 25px;
+    transition: 900ms;
+}
+
+p {
+    text-align: center;
+}
+.programs {
+    text-align: center;
+    padding: 70px 0px 70px 0px;
+    font-size: 300%;
+}
+.offered {
+    width: 100%;
+    border-radius: 10%;
+    display: flex;
+    justify-content: center;
+    filter: brightness(1);
+}
+.offered:hover {
+    border-radius: 20%;
+    transition: 900ms;
+    cursor: pointer;
+}
+
+.collegeof {
+    font-size: 18px;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    margin: 20px 0px 150px 0px;
+    border-radius: 50px;
+    border: 2px solid #2a2a2a;
+    color: rgb(21, 21, 21);
+    background-color: rgba(255, 255, 255, 0.073);
+}
+.collegeof:hover {
+    font-size: 18px;
+    padding: 10px 0px 10px 0px;
+    color: maroon;
+    cursor: pointer;
+    transition: 900ms;
+    border-radius: 50px;
+    border: 2px solid #7575756c;
+    color: rgb(19, 19, 19);
+    background-color: rgba(255, 255, 255, 0.1);
+}
+.about2ndline {
+    margin: 50px 0px 10px 20px;
+}
